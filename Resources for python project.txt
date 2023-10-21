@@ -1,0 +1,9 @@
+#Resources used:
+https://stackoverflow.com/questions/30267420/while-loop-to-check-for-valid-user-input
+https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/216fb638-de2c-448e-b0af-469268c790cd
+https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/d099bfa2-d54c-4798-affd-ea9291ef9aae
+https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/3a532bbc-f528-474e-ad28-44f4b4ead0b9
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-pandas-dataframe
+https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls0510/concepts/c49ff37d-acea-494e-9000-9ac64b5120fc
+https://pandas.pydata.org/pandas-docs/stable/reference/series.html#indexing-iteration
