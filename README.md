@@ -4,7 +4,7 @@
 22/10/2023
 
 ### Project Title
-Version Control on Bikeshare Project
+Version Control - Bikeshare Project
 
 ### Description
 The bikeshare project is a python program that asks the user to input city, month and day for which they would like to view the bikeshare statistics. Version control allows us to be able to track changes made to the entire program
@@ -13,6 +13,7 @@ The bikeshare project is a python program that asks the user to input city, mont
 I used three csv files that contained bikeshare data on 3 cities; Chicago, New York and Washington 
 
 ### Credits
+Most of the resources used were from the udacity classroom and then a few from websites such as stackoverflow.
 #Resources used:
 https://stackoverflow.com/questions/30267420/while-loop-to-check-for-valid-user-input
 https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/216fb638-de2c-448e-b0af-469268c790cd
