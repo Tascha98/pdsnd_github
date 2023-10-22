@@ -191,8 +191,7 @@ def user_stats(df, city):
     start_time = time.time()
 
     # TO DO: Display counts of user types
-    user_type = df['User Type'].value_counts()
-    print('The user type counts in {} are as follows:\n{}'.format(city,user_type))
+    print('The user type counts in {} are as follows:\n{}'.format(city, df['User Type'].value_counts()))
 
     # TO DO: Display counts of gender
     if 'Gender' in df:
