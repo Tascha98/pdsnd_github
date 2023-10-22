@@ -10,7 +10,7 @@ Version Control - Bikeshare Project
 The bikeshare project is a python program that asks the user to input city, month and day for which they would like to view the bikeshare statistics. Version control allows us to be able to track changes made to the entire program
 
 ### Files used
-I used three csv files that contained bikeshare data on 3 cities; Chicago, New York and Washington 
+I used csv files that contained bikeshare data on 3 cities; Chicago, New York and Washington 
 
 ### Credits
 Most of the resources used were from the udacity classroom and then a few from websites such as stackoverflow.
